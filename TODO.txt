@@ -1,0 +1,6 @@
+//TODO
+·Make the white dot appear in the middle. (X & Y)
+·Improve the obstacle warning to the user. (Block Grey & Limits of Body)
+·If all goes well, keep asking. (Loop)
+·Separate by classes. (See how)
+·Change the alerts to a form. (Collect values by javascript)

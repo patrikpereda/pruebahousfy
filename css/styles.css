@@ -1,0 +1,36 @@
+/*** General ***/
+* {
+    height: 100%;
+    margin: 0%;
+}
+
+body {
+    background-image: url("../img/marte.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*** Title ***/ 
+h1 {
+    text-align: center;
+    color: white;
+    width: 600px;
+    height: 100px;
+}
+
+/*** Canvas ***/
+#zone {    
+    width: 600px;
+    height: 600px;
+}
+
+#cvs {
+    margin: auto;
+    margin-bottom: 0px;
+    border: 1px solid black;
+}
